@@ -16,11 +16,9 @@
     .is-stuck .top-bar {
         @extend .slideInDown;
     }
-
     .is-stuck .top-bar {
-
         background: #ffffff !important;
-        /* transition: 1s; */
+        /* transition: 2s; */
         .header-logo {
             .logo-white {
                 display: none;
@@ -44,7 +42,6 @@
         }
     }
 }
-
 
 .sticky-custom-nav {
     .top-bar-container {
