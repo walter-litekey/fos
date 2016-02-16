@@ -3,7 +3,7 @@
 <div class="sticky-custom-nav">
     <div data-sticky-container>
         <div class="top-bar-container" data-sticky data-options="marginTop:0;">
-            <div class="top-bar" id="top-bar-menu">
+            <div class="top-bar animated" id="top-bar-menu">
                 <div class="top-bar-left float-left">
                     <ul class="menu">
                         <li class="header-logo">

@@ -4105,7 +4105,7 @@ to display none.
 
 .home-custom .is-stuck .top-bar {
   background: #ffffff !important;
-  transition: 1s; }
+  /* transition: 1s; */ }
   .home-custom .is-stuck .top-bar .header-logo .logo-white {
     display: none; }
   .home-custom .is-stuck .top-bar .header-logo .logo-color {
@@ -6415,7 +6415,7 @@ to display none.
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0); } }
 
-.slideInDown {
+.slideInDown, .home-custom .is-stuck .top-bar {
   -webkit-animation-name: slideInDown;
   animation-name: slideInDown; }
 
