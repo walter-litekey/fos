@@ -14,11 +14,9 @@
         }
     }
     .is-stuck .top-bar {
-        @extend .slideInDown;
-    }
-    .is-stuck .top-bar {
         background: #ffffff !important;
-        /* transition: 2s; */
+        transition: 1s;
+        box-shadow: 0px 15px 60px 0px rgba(0, 0, 0, 0.39);
         .header-logo {
             .logo-white {
                 display: none;
